@@ -1,0 +1,1 @@
+A program that was made to machine translate text between English and French. This was done by training on some data first and creating a model.
